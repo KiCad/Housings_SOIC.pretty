@@ -1,6 +1,6 @@
 (module SOIC-24_7.5x15.4mm_Pitch1.27mm (layer F.Cu) (tedit 54130A77)
   (descr "24-Lead Plastic Small Outline (SO) - Wide, 7.50 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)")
-  (tags "SOP SSOP MSOP SOIC TSOP TSSOP VSO")
+  (tags "SOIC 1.27")
   (attr smd)
   (fp_text reference SOIC-24_7.5x15.4mm_Pitch1.27mm (at 0 -8.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

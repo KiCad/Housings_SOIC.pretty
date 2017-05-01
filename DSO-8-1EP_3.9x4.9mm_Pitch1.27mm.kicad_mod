@@ -1,6 +1,6 @@
 (module DSO-8-1EP_3.9x4.9mm_Pitch1.27mm (layer F.Cu) (tedit 59078C92)
-  (descr "8-Lead Thermally Enhanced Plastic Small Outline (SE) - Narrow, 3.90 mm Body [SOIC] (see Microchip Packaging Specification 00000049BS.pdf)")
-  (tags "SOIC 1.27")
+  (descr "8-pin Dual Small Outline Package, http://www.infineon.com/cms/en/product/packages/PG-DSO/PG-DSO-8-43/")
+  (tags "DSO DSO-8 DSO-8-43 Infineon")
   (attr smd)
   (fp_text reference REF** (at 0 -3.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

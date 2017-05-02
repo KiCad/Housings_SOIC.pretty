@@ -1,5 +1,5 @@
 (module Infineon_PG-DSO-8-43 (layer F.Cu) (tedit 59082F17)
-  (descr Infineon_PG-DSO-8-42)
+  (descr Infineon_PG-DSO-8-43)
   (tags "DSO DSO-8 SOIC SOIC-8")
   (attr smd)
   (fp_text reference REF** (at 0 -3.5) (layer F.SilkS)

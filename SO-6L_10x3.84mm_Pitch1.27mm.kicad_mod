@@ -1,4 +1,4 @@
-(module Housings_SOIC.3dshapes:SO-6L_10x3.84mm_Pitch1.27mm (layer F.Cu) (tedit 5933EA05)
+(module SO-6L_10x3.84mm_Pitch1.27mm (layer F.Cu) (tedit 5933EA05)
   (descr "6-pin plasic small outline 7,5mm long")
   (tags SO-6L)
   (attr smd)

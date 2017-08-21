@@ -1,5 +1,5 @@
 (module PowerPAK_SO-8_Dual (layer F.Cu) (tedit 598CB30D)
-  (descr "PowerPAK SO-8 Dual (https://www.vishay.com/docs/71655/powerpak.pdf, https://www.vishay.com/docs/72600/7260.pdf)")
+  (descr "PowerPAK SO-8 Dual (https://www.vishay.com/docs/71655/powerpak.pdf, https://www.vishay.com/docs/72600/72600.pdf)")
   (tags "PowerPAK SO-8 Dual")
   (attr smd)
   (fp_text reference REF** (at 0 -3.5) (layer F.SilkS)
@@ -29,8 +29,8 @@
   (pad 6 smd rect (at 2.795 0.635) (size 1.02 0.61) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 2.795 -0.635) (size 1.02 0.61) (layers F.Cu F.Paste F.Mask))
   (pad 5 smd rect (at 2.795 -1.855) (size 1.02 0.61) (layers F.Cu F.Paste F.Mask))
-  (pad 5 smd rect (at 0.67 -1.13) (size 3.81 1.65) (layers F.Cu F.Paste F.Mask))
-  (pad 6 smd rect (at 0.67 1.13) (size 3.81 1.65) (layers F.Cu F.Paste F.Mask))
+  (pad 5 smd rect (at 0.69 -1.13) (size 3.81 1.65) (layers F.Cu F.Paste F.Mask))
+  (pad 6 smd rect (at 0.69 1.13) (size 3.81 1.65) (layers F.Cu F.Paste F.Mask))
   (model ${KISYS3DMOD}/.3dshapes/PowerPAK_SO-8_Dual.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))

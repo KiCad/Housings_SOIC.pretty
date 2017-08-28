@@ -1,5 +1,5 @@
 (module ST_PowerSO-20 (layer F.Cu) (tedit 599EE5E7)
-  (descr "PowerSO-20 1EP 11.0x15.9mm Pitch 1.27mm (http://www.st.com/resource/en/datasheet/tda7266d.pdf, www.st.com/resource/en/application_note/cd00003801.pdf)")
+  (descr "PowerSO-20 1EP 11.0x15.9mm Pitch 1.27mm [JEDEC MO-166] (http://www.st.com/resource/en/datasheet/tda7266d.pdf, www.st.com/resource/en/application_note/cd00003801.pdf)")
   (tags "PowerSO-20 1EP 11.0x15.9mm Pitch 1.27mm")
   (attr smd)
   (fp_text reference REF** (at 0 -9.8) (layer F.SilkS)

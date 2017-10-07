@@ -1,6 +1,7 @@
-(module SO-20_12.8x7.5mm_Pitch1.27mm (layer F.Cu) (tedit 59D90EE6)
+(module SO-20_12.8x7.5mm_Pitch1.27mm (layer F.Cu) (tedit 59D912C3)
   (descr "SO-20, 12.8x7.5mm, https://www.nxp.com/docs/en/data-sheet/SA605.pdf")
   (tags "S0-20 ")
+  (attr smd)
   (fp_text reference REF** (at -3.69 -7.42) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
